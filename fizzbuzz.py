@@ -47,7 +47,8 @@ Buzz
 import math 
 numbers = int(input("How many numbers shall we print?")
 fizz = int(input("For multiples of what number shall we print 'Fizz'?")
-buss = int(input("For multiples of what number shall we print 'Buzz'?")
+buzz = int(input("For multiples of what number shall we print 'Buzz'?")
+
 
 
 
