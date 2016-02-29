@@ -44,3 +44,12 @@ Fizz
 Fizz
 Buzz
 """
+import math 
+numbers = int(print("How many numbers shall we print?")
+
+For multiples of what number shall we print 'Fizz'? 3
+For multiples of what number shall we print 'Buzz'?
+
+
+
+
