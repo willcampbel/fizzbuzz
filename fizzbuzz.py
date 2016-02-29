@@ -45,10 +45,10 @@ Fizz
 Buzz
 """
 import math 
-numbers = int(print("How many numbers shall we print?")
+numbers = int(input("How many numbers shall we print?")
+fizz = int(input("For multiples of what number shall we print 'Fizz'?")
+buss = int(input("For multiples of what number shall we print 'Buzz'?")
 
-For multiples of what number shall we print 'Fizz'? 3
-For multiples of what number shall we print 'Buzz'?
 
 
 
