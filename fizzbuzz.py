@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Will
-Credit: Eli
+Credit: Eli, Ethan, Mr. Dennison 
 
 Assignment:
 
