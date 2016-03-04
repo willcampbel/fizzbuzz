@@ -51,7 +51,7 @@ buzz = int(input("For multiples of what number shall we print 'Buzz'? "))
 
 
 
-for x in range(numbers+1):
+for x in range(numbers):
     if x%fizz==0 and x%buzz==0:
         print("FizzBuzz")
     elif (x)%fizz == 0:
@@ -61,19 +61,5 @@ for x in range(numbers+1):
     else:
         print(x) 
 
-"""
-number = int(input("How many numbers shall we print? "))
-fizz = int(input("For multiples of what number shall we print 'Fizz'? "))
-buzz = int(input("For multiples of what number shall we print 'Buzz'? "))
-
-
-
-for x in range(number+1):
-    print(x)
-    if x%fizz == 0:
-        print("Fizz")
-    if x%buzz == 0:
-        print("Buzz")
-""" 
 
 
