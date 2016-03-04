@@ -57,7 +57,7 @@ for x in range(numbers+1):
     elif (x)%fizz == 0:
         print("Fizz")
     elif (x)%buzz == 0:
-            print("Buzz")   
+        print("Buzz")   
     else:
         print(x) 
 
