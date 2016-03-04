@@ -54,11 +54,14 @@ buzz = int(input("For multiples of what number shall we print 'Buzz'? "))
 for x in range(numbers+1):
     if (x+1)%fizz!= 0 and (x+1)%buzz!= 0:
         print("FizzBuzz")
-    if (x+1)%fizz == 0:
+    elif (x+1)%fizz == 0:
         print("Fizz")
-        
-    if (x+1)%buzz == 0:
-            print("Buzz")                                                                                                                                                   
+    
+    elif (x+1)%buzz == 0:
+            print("Buzz")   
+            
+    else:
+        print(x) 
 
 """
 number = int(input("How many numbers shall we print? "))
